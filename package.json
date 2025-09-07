@@ -7,9 +7,18 @@
   },
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "This is my first figma project",
   "dependencies": {
     "@tailwindcss/cli": "^4.1.11",
     "tailwindcss": "^4.1.11"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sajibwebtpi/figma-desighn.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/sajibwebtpi/figma-desighn/issues"
+  },
+  "homepage": "https://github.com/sajibwebtpi/figma-desighn#readme"
 }
